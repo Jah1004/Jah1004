@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jihun! Cyber Analyst</h1>
+<h1>Hi, I'm Jihun! Passionate Cyber Analyst</h1>
 
 <h2>👨‍💻 My Projects:</h2>
 
